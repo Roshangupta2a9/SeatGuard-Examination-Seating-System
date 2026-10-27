@@ -1,0 +1,6 @@
+{
+  "name": "Seating Arrangement System",
+  "description": "Upload student list (CSV or Excel) and room bench count to generate bench-wise seating arrangement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
